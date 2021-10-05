@@ -11,6 +11,7 @@ public class Zoo {
         Lion king=new Lion("Simba",13);
         Herbivore rabbit=new Rabbit("Bunny",6);
 
+
         System.out.println("The lion says "+king.voice());
 
         Fish shark=new Fish("Shark", 1);
